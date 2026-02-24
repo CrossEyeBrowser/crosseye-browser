@@ -1,50 +1,50 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="en-GB">
-<translation id="1001534784610492198">The installer archive is corrupted or invalid. Please download Google Chrome again.</translation>
-<translation id="1006034097353797313">Continue where you left off: Chrome restores your tabs every time you restart. To turn this off, go to</translation>
-<translation id="1018937009655463387">To share your window, allow screen recording for Chrome in System Settings.</translation>
+<translation id="1001534784610492198">The installer archive is corrupted or invalid. Please download CrossEye Browser again.</translation>
+<translation id="1006034097353797313">Continue where you left off: CrossEye restores your tabs every time you restart. To turn this off, go to</translation>
+<translation id="1018937009655463387">To share your window, allow screen recording for CrossEye in System Settings.</translation>
 <translation id="1026101648481255140">Resume installation</translation>
-<translation id="102763973188675173">Customise and control Google Chrome. Update is available.</translation>
-<translation id="1028061813283459617">To delete browsing data from this device only, while keeping it in your Google Account, <ph name="BEGIN_LINK" />sign out of Chrome<ph name="END_LINK" />.</translation>
-<translation id="1042270987544905725">Click to close the Chrome sign-in dialogue</translation>
+<translation id="102763973188675173">Customise and control CrossEye Browser. Update is available.</translation>
+<translation id="1028061813283459617">To delete browsing data from this device only, while keeping it in your Google Account, <ph name="BEGIN_LINK" />sign out of CrossEye<ph name="END_LINK" />.</translation>
+<translation id="1042270987544905725">Click to close the CrossEye sign-in dialogue</translation>
 <translation id="1051793555070215510">Help us improve Incognito by taking this 1-minute survey.</translation>
-<translation id="1059838145689930908">To use this extension as <ph name="USER_EMAIL_ADDRESS" />, sign in to Chrome.</translation>
+<translation id="1059838145689930908">To use this extension as <ph name="USER_EMAIL_ADDRESS" />, sign in to CrossEye.</translation>
 <translation id="1065672644894730302">Your preferences cannot be read.
 
 Some features may be unavailable and changes to preferences won't be saved.</translation>
-<translation id="1070377999570795893">Another program on your computer added an extension that may change the way Chrome works.
+<translation id="1070377999570795893">Another program on your computer added an extension that may change the way CrossEye works.
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="1086486568852410168">Search with Google Lens</translation>
-<translation id="1088300314857992706"><ph name="USER_EMAIL_ADDRESS" /> was previously using Chrome</translation>
-<translation id="110877069173485804">This is your Chrome</translation>
-<translation id="1125124144982679672">Who's using Chrome?</translation>
-<translation id="1142745911746664600">Can't update Chrome</translation>
-<translation id="1148360048981192980">Next time you open Chrome on your <ph name="DEVICE_TYPE" />, you'll see a prompt to use Google Password Manager.</translation>
+<translation id="1088300314857992706"><ph name="USER_EMAIL_ADDRESS" /> was previously using CrossEye</translation>
+<translation id="110877069173485804">This is your CrossEye</translation>
+<translation id="1125124144982679672">Who's using CrossEye?</translation>
+<translation id="1142745911746664600">Can't update CrossEye</translation>
+<translation id="1148360048981192980">Next time you open CrossEye on your <ph name="DEVICE_TYPE" />, you'll see a prompt to use Google Password Manager.</translation>
 <translation id="1152920704813762236">About ChromeOS</translation>
-<translation id="1154147086299354128">&amp;Open in Chrome</translation>
+<translation id="1154147086299354128">&amp;Open in CrossEye</translation>
 <translation id="1157985233335035034">Recent languages</translation>
-<translation id="1158134713295836892">Gemini in Chrome</translation>
+<translation id="1158134713295836892">Gemini in CrossEye</translation>
 <translation id="1184145431117212167">Installation failed because your version of Windows is not supported.</translation>
 <translation id="1194807384646768652">Chrome blocked this download because the file type isn't commonly downloaded and it may be dangerous</translation>
-<translation id="1197860368385086056">Next time you open Chrome on your <ph name="DEVICE_TYPE" />, you'll see a prompt to enable price tracking alerts.</translation>
+<translation id="1197860368385086056">Next time you open CrossEye on your <ph name="DEVICE_TYPE" />, you'll see a prompt to enable price tracking alerts.</translation>
 <translation id="1203500561924088507">Thanks for installing. You must restart your browser before using <ph name="BUNDLE_NAME" />.</translation>
-<translation id="1278833599417554002">Relaunch to update &amp;Chrome</translation>
+<translation id="1278833599417554002">Relaunch to update &amp;CrossEye</translation>
 <translation id="1290883685122687410">Setup error: <ph name="METAINSTALLER_EXIT_CODE" />. <ph name="WINDOWS_ERROR" /></translation>
-<translation id="1302523850133262269">Please wait while Chrome installs the latest system updates.</translation>
+<translation id="1302523850133262269">Please wait while CrossEye installs the latest system updates.</translation>
 <translation id="1330562121671411446">Detect language</translation>
 <translation id="1335640173511558774"><ph name="MANAGER" /> requires that you read and accept the following Terms of Service before using this device. These terms do not expand, modify or limit the Google Chrome OS Flex terms.</translation>
-<translation id="1341711321000856656">You can switch to see passwords from another Chrome profile</translation>
-<translation id="1343830902827845050">Sign in to Chrome</translation>
+<translation id="1341711321000856656">You can switch to see passwords from another CrossEye profile</translation>
+<translation id="1343830902827845050">Sign in to CrossEye</translation>
 <translation id="1356661055722410047">New! You can translate both text and images on your screen</translation>
 <translation id="1363996462118479832">Chrome OS could not sync your data due to an error signing in.</translation>
 <translation id="137466361146087520">Google Chrome Beta</translation>
 <translation id="1383876407941801731">Search</translation>
-<translation id="1399397803214730675">This computer already has a more recent version of Google Chrome. If the software is not working, please uninstall Google Chrome and try again.</translation>
+<translation id="1399397803214730675">This computer already has a more recent version of CrossEye Browser. If the software is not working, please uninstall CrossEye Browser and try again.</translation>
 <translation id="1404026649028693342">Always show AI Mode</translation>
 <translation id="141901961143729572">Share your thoughts</translation>
-<translation id="1425903838053942728">{COUNT,plural, =0{Chrome is done updating. You can use the latest version as soon as you relaunch. Your current tabs will then reopen.}=1{Chrome is done updating. You can use the latest version as soon as you relaunch. Your current tabs will then reopen. Your incognito window won't reopen.}other{Chrome is done updating. You can use the latest version as soon as you relaunch. Your current tabs will then reopen. Your # incognito windows won't reopen.}}</translation>
+<translation id="1425903838053942728">{COUNT,plural, =0{CrossEye is done updating. You can use the latest version as soon as you relaunch. Your current tabs will then reopen.}=1{CrossEye is done updating. You can use the latest version as soon as you relaunch. Your current tabs will then reopen. Your incognito window won't reopen.}other{Chrome is done updating. You can use the latest version as soon as you relaunch. Your current tabs will then reopen. Your # incognito windows won't reopen.}}</translation>
 <translation id="1434626383986940139">Chrome Canary Apps</translation>
 <translation id="1439793550875056299">Pin Chrome</translation>
 <translation id="146866447420868597">Sign in to Chrome?</translation>
@@ -87,7 +87,7 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="1849248141818021764">Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Google. If you forget your passphrase or want to change this setting, you'll need to <ph name="BEGIN_LINK" />delete the Chrome data in your account<ph name="END_LINK" />.</translation>
 <translation id="1860536484129686729">Chrome needs permission to access your camera for this site</translation>
 <translation id="1867503717113754604">Sign in to Chrome with your Google Account to use <ph name="START_GLIC_STYLING" />Gemini<ph name="END_GLIC_STYLING" /></translation>
-<translation id="1873233029667955273">Google Chrome isn't your default browser</translation>
+<translation id="1873233029667955273">CrossEye Browser isn't your default browser</translation>
 <translation id="1874309113135274312">Google Chrome Beta (mDNS-In)</translation>
 <translation id="1877026089748256423">Chrome is out of date</translation>
 <translation id="1880677175115548835">Select text</translation>
@@ -107,7 +107,7 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="2091012649849228750">To get future Google Chrome updates, you'll need Windows 10 or later. This computer is using Windows 8.</translation>
 <translation id="2094648590148273905">Chrome OS Flex terms</translation>
 <translation id="2094919256425865063">Quit Chrome anyway?</translation>
-<translation id="2096213354152647998">You haven't visited recently. Chrome removed <ph name="PERMISSION" />.</translation>
+<translation id="2096213354152647998">You haven't visited recently. CrossEye removed <ph name="PERMISSION" />.</translation>
 <translation id="2106831557840787829">Chrome OS Flex is made possible by additional <ph name="BEGIN_LINK_CROS_OSS" />open-source software<ph name="END_LINK_CROS_OSS" />, as is <ph name="BEGIN_LINK_LINUX_OSS" />Linux development environment<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="2108778574543343055">Disable Chrome running in background for apps</translation>
 <translation id="2120620239521071941">This will delete <ph name="ITEMS_COUNT" /> items from this device. To retrieve your data later, sign in to Chrome as <ph name="USER_EMAIL" />.</translation>
@@ -183,7 +183,7 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="2875053229394024379">When you sign in to Chrome with your Google Account, you can use your Chrome profile with Gemini. <ph name="BEGIN_LINK" />Learn how to sign in to Chrome<ph name="END_LINK" /></translation>
 <translation id="2876628302275096482">Learn more about <ph name="BEGIN_LINK" />how Chrome keeps your data private<ph name="END_LINK" /></translation>
 <translation id="2885378588091291677">Task Manager</translation>
-<translation id="2888126860611144412">About Chrome</translation>
+<translation id="2888126860611144412">About CrossEye</translation>
 <translation id="2915996080311180594">Restart later</translation>
 <translation id="2926676257163822632">Weak passwords are easy to guess. Let Chrome <ph name="BEGIN_LINK" />create and remember strong passwords for you<ph name="END_LINK" />.</translation>
 <translation id="2926952073016206995">Chrome needs camera permission for this site</translation>
@@ -267,7 +267,7 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="3780814664026482060">Chrome - <ph name="PAGE_TITLE" /></translation>
 <translation id="3785324443014631273">Chrome OS Flex could not sync your data due to an error signing in.</translation>
 <translation id="3795971588916395511">Google ChromeOS</translation>
-<translation id="3809772425479558446">Google Chrome requires Windows 10 or higher.</translation>
+<translation id="3809772425479558446">CrossEye Browser requires Windows 10 or higher.</translation>
 <translation id="3810973564298564668">Manage</translation>
 <translation id="383928141529488001">Google Chrome needs Bluetooth access to explore 
  Bluetooth devices. <ph name="IDS_SERIAL_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
@@ -368,7 +368,7 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="4918844574251943176">Image copied</translation>
 <translation id="4926882258455737990">To use a different Google Account with Gemini in Chrome, <ph name="BEGIN_LINK" />create a new profile<ph name="END_LINK" /> and sign in with the account that you want</translation>
 <translation id="492720062778050435">Chrome recommends you review this extension</translation>
-<translation id="4953650215774548573">Set Google Chrome as your default browser</translation>
+<translation id="4953650215774548573">Set CrossEye as your default browser</translation>
 <translation id="495931528404527476">In Chrome</translation>
 <translation id="4969674060580488087">Chrome OS Flex could not sync your data because your account sign-in details are out of date.</translation>
 <translation id="4970761609246024540">Welcome to Chrome profiles</translation>
@@ -452,7 +452,7 @@ Google Chrome is unable to recover your settings.</translation>
 <translation id="5804318322022881572">Couldn't launch Chrome. Try again.</translation>
 <translation id="5809516625706423866">Unable to connect to the Internet. HTTP 401 Unauthorised. Please check your proxy configuration.</translation>
 <translation id="5824893331272123205">Couldn't load this panel, try again</translation>
-<translation id="5825922397106002626">Remove <ph name="EXTENSION_NAME" /> from Chrome</translation>
+<translation id="5825922397106002626">Remove <ph name="EXTENSION_NAME" /> from CrossEye</translation>
 <translation id="5858486459377137936">You'll be signed out of most sites when you close all Chrome windows, except your Google Account if you're signed in to Chrome. To let sites remember you, <ph name="SETTINGS_LINK" />.</translation>
 <translation id="586971344380992563"><ph name="BEGIN_LINK" />Chrome warns you<ph name="END_LINK" /> about unsafe sites and downloads</translation>
 <translation id="5894164573378901688">To use Gemini in Chrome, sign in with a different Google Account</translation>
@@ -515,7 +515,7 @@ Google Chrome is unable to recover your settings.</translation>
 <translation id="6326175484149238433">Remove from Chrome</translation>
 <translation id="6327105987658262776">No update is available.</translation>
 <translation id="6334815226785304306">Make Google Chrome the default browser and pin to the taskbar</translation>
-<translation id="63540178978900677">Chrome is no longer your default browser. Make Chrome the default browser?</translation>
+<translation id="63540178978900677">CrossEye Browser isn't your default browser anymore.</translation>
 <translation id="6360449101159168105">While this tab was inactive, memory was freed up to keep Chrome fast. You can choose to always exclude this site from being inactive.</translation>
 <translation id="6388799252195623474">help me with this</translation>
 <translation id="6412673304250309937">Checks URLs with a list of unsafe sites stored in Chrome. If a site tries to steal your password, or when you download a harmful file, Chrome may also send URLs, including bits of page content, to Safe Browsing.</translation>
@@ -534,7 +534,7 @@ Google Chrome is unable to recover your settings.</translation>
 <translation id="6506909944137591434">Chrome needs camera permission to create a 3D map of your surroundings</translation>
 <translation id="6515495397637126556"><ph name="PAGE_TITLE" /> – Google Chrome Dev</translation>
 <translation id="6520670145826811516">To use your location, give Chrome access in <ph name="BEGIN_LINK" />system settings<ph name="END_LINK" /></translation>
-<translation id="652948702951888897">Chrome history</translation>
+<translation id="652948702951888897">Uour browsing history</translation>
 <translation id="6532945796722480006">Open Gemini in Chrome Canary</translation>
 <translation id="6585124893636629274">Close Gemini in Chrome</translation>
 <translation id="659498884637196217">In Google Password Manager on this device</translation>
